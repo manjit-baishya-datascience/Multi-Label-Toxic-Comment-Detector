@@ -1,4 +1,4 @@
-# **Multi-Label Toxic Comment Detection**
+# **Toxic Comment Detection**
 ![Asset 3](https://github.com/user-attachments/assets/5ae1cf01-f6d5-4d9e-93ca-dc001633cebc)
 
 ## **Overview**
